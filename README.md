@@ -6,3 +6,4 @@ foi usado o mks robin e3 pois ambos usam o mesmo processador
 pinos do lcd no link https://github.com/thiagoeasy/MARLIN-ET-4000PLUS-PARA-LCD.git
 pino do probe usar z- para energizar bltouch usar MT_DET
 E PARA PIN SERVO USAR PIN PA3
+gh repo clone MarlinFirmware/Marlin
